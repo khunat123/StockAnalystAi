@@ -1,0 +1,19 @@
+# Core dependencies
+chainlit>=1.0.0
+python-dotenv>=1.0.0
+google-generativeai>=0.3.0
+
+# Data providers
+yfinance>=0.2.0
+requests>=2.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+pymongo>=4.0.0
+
+# Optional: OpenAI (if using GPT instead of Gemini)
+openai>=1.0.0
+
+# Tavily for news search
+tavily-python>=0.3.0
