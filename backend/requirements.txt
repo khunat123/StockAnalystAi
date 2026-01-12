@@ -17,3 +17,10 @@ openai>=1.0.0
 
 # Tavily for news search
 tavily-python>=0.3.0
+
+# LangChain & LangGraph
+langgraph>=0.0.10
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.5
+langchain-google-genai>=0.0.5
